@@ -1,2 +1,1 @@
-# webwhitesimple
- 
+# camera_kit_demo
